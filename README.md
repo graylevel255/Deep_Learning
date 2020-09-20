@@ -17,5 +17,5 @@ This repository contains all the codes implemented in the CS7015 Deep Learning C
 
 <a href="">Omji Gupta</a>
 
-<a href="">Sonam Gupta</a>
+<a href="https://github.com/guptasonam1602">Sonam Gupta</a>
 
